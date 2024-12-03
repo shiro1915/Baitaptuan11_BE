@@ -1,0 +1,9 @@
+D:\homework\LTUD\project\QLBV\DAL_QLBV\bin\Debug\DAL_QLBV.dll
+D:\homework\LTUD\project\QLBV\DAL_QLBV\bin\Debug\DAL_QLBV.pdb
+D:\homework\LTUD\project\QLBV\DAL_QLBV\bin\Debug\ET_QLBV.dll
+D:\homework\LTUD\project\QLBV\DAL_QLBV\bin\Debug\ET_QLBV.pdb
+D:\homework\LTUD\project\QLBV\DAL_QLBV\obj\Debug\DAL_QLBV.csproj.AssemblyReference.cache
+D:\homework\LTUD\project\QLBV\DAL_QLBV\obj\Debug\DAL_QLBV.csproj.CoreCompileInputs.cache
+D:\homework\LTUD\project\QLBV\DAL_QLBV\obj\Debug\DAL_QLBV.csproj.Up2Date
+D:\homework\LTUD\project\QLBV\DAL_QLBV\obj\Debug\DAL_QLBV.dll
+D:\homework\LTUD\project\QLBV\DAL_QLBV\obj\Debug\DAL_QLBV.pdb

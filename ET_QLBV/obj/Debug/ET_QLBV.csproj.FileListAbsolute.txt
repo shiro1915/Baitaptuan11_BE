@@ -1,0 +1,6 @@
+D:\homework\LTUD\project\QLBV\ET_QLBV\bin\Debug\ET_QLBV.dll
+D:\homework\LTUD\project\QLBV\ET_QLBV\bin\Debug\ET_QLBV.pdb
+D:\homework\LTUD\project\QLBV\ET_QLBV\obj\Debug\ET_QLBV.csproj.AssemblyReference.cache
+D:\homework\LTUD\project\QLBV\ET_QLBV\obj\Debug\ET_QLBV.csproj.CoreCompileInputs.cache
+D:\homework\LTUD\project\QLBV\ET_QLBV\obj\Debug\ET_QLBV.dll
+D:\homework\LTUD\project\QLBV\ET_QLBV\obj\Debug\ET_QLBV.pdb

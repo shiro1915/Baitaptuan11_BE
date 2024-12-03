@@ -1,0 +1,15 @@
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\GUI_QLBV.exe.config
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\GUI_QLBV.exe
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\GUI_QLBV.pdb
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\BUS_QLBV.dll
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\ET_QLBV.dll
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\BUS_QLBV.pdb
+D:\homework\LTUD\project\QLBV\GUI_QLBV\bin\Debug\ET_QLBV.pdb
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.csproj.AssemblyReference.cache
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.frm_main.resources
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.Properties.Resources.resources
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.csproj.GenerateResource.cache
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.csproj.CoreCompileInputs.cache
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.csproj.Up2Date
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.exe
+D:\homework\LTUD\project\QLBV\GUI_QLBV\obj\Debug\GUI_QLBV.pdb
